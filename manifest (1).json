@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "code-editor-one-nu.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Studio light",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "/",
+  "description": "Just a simple code editor and apk maker"
+}
